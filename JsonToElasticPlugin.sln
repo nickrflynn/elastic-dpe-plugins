@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleEnginePlugin", "SampleEnginePlugin\SampleEnginePlugin.csproj", "{3D2BC924-DD70-4E76-9E22-2941F9980B38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonToElasticPlugin", "JsonToElasticPlugin\JsonToElasticPlugin.csproj", "{3D2BC924-DD70-4E76-9E22-2941F9980B38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

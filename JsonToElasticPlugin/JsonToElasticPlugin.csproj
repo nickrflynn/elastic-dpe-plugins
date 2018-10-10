@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>JsonToElasticPlugin</AssemblyName>
+    <RootNamespace>JsonToElasticPlugin</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Catalyst.DataProcessing.Engine.Plugins" Version="4.5.1810.201" />
+  </ItemGroup>
+
+</Project>
